@@ -32,6 +32,10 @@ h1{
     color: #ffffff;
 }
 
+a{
+    color :  #ffffff ;  
+}
+
 li {
     list-style-type: disc;
     list-style-position: inside;
